@@ -16,3 +16,4 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
 5. Add plugins
     - alt+tab fix: https://github.com/SaiyansKing/GRawInput/releases
     - german TTS (replaces russian dubbing): https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY
+    - copy SystemPack.ini and Gothic.ini
