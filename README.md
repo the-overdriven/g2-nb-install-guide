@@ -17,9 +17,11 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - copy [System/SystemPack.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/SystemPack.ini), [System/Gothic.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/Gothic.ini) and [System/GD3D11/UserSettings.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/GD3D11/UserSettings.ini)
     - alt+tab & mouse sensitivity fix: https://github.com/SaiyansKing/GRawInput/releases
     - german TTS (replaces russian dubbing): https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY
+    - better textures (GTR v.3.4.7) https://drive.google.com/drive/folders/1K6Amrx7APRgStbJa7j_cF6defe16ERMs    
     - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf)    
-    - better textures (GTR v.3.4.7) https://drive.google.com/drive/folders/1K6Amrx7APRgStbJa7j_cF6defe16ERMs
     - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_1.0.0.vdf)
+    - loading screens https://drive.google.com/file/d/1bc2i2wvTUrFVx811lDeHES59oNhI-dB0/view?usp=sharing
+    - monastery music fix TODO
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini to 1000:  
     SPAWN_INSERTRANGE = 1000  
