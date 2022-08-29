@@ -19,6 +19,6 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - no grass patch (TODO: link)
     - copy System/SystemPack.ini, System/Gothic.ini and System/GD3D11/UserSettings.ini
 
-6. Important change to increase FPS! Decrease these values in SystemPack.ini to 1000:
-    SPAWN_INSERTRANGE = 1000
+6. Important change to increase FPS! Decrease these values in SystemPack.ini to 1000:  
+    SPAWN_INSERTRANGE = 1000  
     SPAWN_REMOVERANGE = 1000
