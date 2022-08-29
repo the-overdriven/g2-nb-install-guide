@@ -19,6 +19,7 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - german TTS (replaces russian dubbing): https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY
     - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf)    
     - better textures (GTR v.3.4.7) https://drive.google.com/drive/folders/1K6Amrx7APRgStbJa7j_cF6defe16ERMs
+    - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_1.0.0.vdf)
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini to 1000:  
     SPAWN_INSERTRANGE = 1000  
