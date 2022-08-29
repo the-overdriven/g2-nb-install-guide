@@ -16,7 +16,7 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
 5. Add plugins
     - alt+tab & mouse sensitivity fix: https://github.com/SaiyansKing/GRawInput/releases
     - german TTS (replaces russian dubbing): https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY
-    - no grass patch (TODO: link)
+    - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf)    
     - copy System/SystemPack.ini, System/Gothic.ini and System/GD3D11/UserSettings.ini
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini to 1000:  
