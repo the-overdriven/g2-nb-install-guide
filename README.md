@@ -24,5 +24,5 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - restore original Monastery [music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Data/Music/newworld/BAN_DayStd.sgt) (organs)
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini to 1000:  
-    SPAWN_INSERTRANGE = 1000  
-    SPAWN_REMOVERANGE = 1000
+    SPAWN_INSERTRANGE = 1500  
+    SPAWN_REMOVERANGE = 2000
