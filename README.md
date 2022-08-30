@@ -26,5 +26,6 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini:  
     SPAWN_INSERTRANGE = 1500  
-    SPAWN_REMOVERANGE = 2000
+    SPAWN_REMOVERANGE = 2000  
+    
     On lower values creatures further away from you won't spawn which relievies the CPU load, it makes tremendous difference especially in cities.
