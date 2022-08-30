@@ -22,6 +22,7 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_1.0.0.vdf)
     - loading screens https://drive.google.com/file/d/1bc2i2wvTUrFVx811lDeHES59oNhI-dB0/view?usp=sharing
     - restore original Monastery [music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Data/Music/newworld/BAN_DayStd.sgt) (organs)
+    - EQ with icons and mouse support [Union_Adv_Inventory](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Adv_Inventory.vdf)
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini:  
     SPAWN_INSERTRANGE = 1500  
