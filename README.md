@@ -20,7 +20,6 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - better textures (GTR v.3.4.7) https://drive.google.com/drive/folders/1K6Amrx7APRgStbJa7j_cF6defe16ERMs    
     - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf)    
     - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_1.0.0.vdf)
-    - loading screens https://drive.google.com/file/d/1bc2i2wvTUrFVx811lDeHES59oNhI-dB0/view?usp=sharing
     - restore original Monastery [music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Data/Music/newworld/BAN_DayStd.sgt) (organs)
     - EQ with icons and mouse support [Union_Adv_Inventory](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Adv_Inventory.vdf)
 
