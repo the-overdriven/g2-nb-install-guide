@@ -1,15 +1,15 @@
 # Gothic 2 Returning New Balance Installation Guide
 
-Requirement: clean version of Gothic II Night of the Raven
+Requirement: clean version of Gothic II Night of the Raven (not in Program Files)
 
-1. Download installator
+1. Download installer
 https://drive.google.com/drive/folders/1Y6fy1zSo6UejLElJRUNv8g4LQSPtxzgQ
 
 2. Download scripts  
 PL: https://drive.google.com/drive/folders/1FHXbFyROyJ6d3CihUHFOH97w7lP6xXNi  
 EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
 
-3. Run Installator
+3. Run Installer
 
 4. Copy scripts to main dir
 
