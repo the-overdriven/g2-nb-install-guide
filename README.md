@@ -19,10 +19,11 @@ EN: https://drive.google.com/drive/folders/1bvqsbU6R5mbW11NCZbbRScO6EAP3PanE
     - german TTS (replaces russian dubbing): https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY
     - [better textures: GTR v.3.4.7](https://drive.google.com/file/d/1qdMH5jOGx-O1s8ogQ3WT4qzyt05Fo8g3/view?usp=sharing) (version without custom menu and loading screens)
     - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf)    
-    - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_1.0.0.vdf)
     - restore original Monastery [music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Data/Music/newworld/BAN_DayStd.sgt) (organs)
-    - EQ with icons and mouse support [Union_Adv_Inventory](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Adv_Inventory.vdf)
     - remove blue magic glow from weapons https://www.nexusmods.com/gothic2/mods/35
+    - EQ with icons and mouse support [Union_Adv_Inventory](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Adv_Inventory_04_09_2022.vdf)
+    - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_01.09.2022.vdf)
+    - [item & enemy locator](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Vob_Locator_17_07_2022.vdf)
 
 6. Important change to increase FPS! Decrease these values in SystemPack.ini:  
     SPAWN_INSERTRANGE = 1500  
