@@ -27,7 +27,8 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - [item & enemy locator](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Vob_Locator_17_07_2022.vdf)
     - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
 
-6. Important change to increase FPS! Decrease these values in SystemPack.ini:  
-    SPAWN_INSERTRANGE = 1500  
-    SPAWN_REMOVERANGE = 2000      
-    (on lower values creatures further away from you won't spawn which relieves the CPU load, it makes a difference especially in cities)
+### Good to know
+- How to increase FPS? Decrease these values with hotkeys (+/- by default) or in SystemPack.ini:  
+SPAWN_INSERTRANGE = 1500  
+SPAWN_REMOVERANGE = 2000      
+(on lower values creatures further away from you won't spawn which relieves the CPU load, it makes a difference especially in cities)
