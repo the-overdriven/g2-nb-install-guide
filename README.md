@@ -6,8 +6,8 @@ Requirement: clean version of Gothic II Night of the Raven (not in Program Files
 https://drive.google.com/drive/folders/1Y6fy1zSo6UejLElJRUNv8g4LQSPtxzgQ
 
 2. Download scripts  
-PL: https://drive.google.com/drive/folders/1FHXbFyROyJ6d3CihUHFOH97w7lP6xXNi  
-EN: https://www.nexusmods.com/gothic2/mods/34
+PL: https://drive.google.com/drive/folders/1FHXbFyROyJ6d3CihUHFOH97w7lP6xXNi [mirror 04.01.2023](https://drive.google.com/file/d/13KuubHWNTUFi32Yee3tNVeIfVazR7X3g/view?usp=sharing)  
+EN: https://www.nexusmods.com/gothic2/mods/34 [mirror 04.01.2023](https://drive.google.com/file/d/1UsPjXknwjleCSOKNFpQWgdiSUf47zuS2/view?usp=sharing)
 
 3. Run Installer  
 Don't install vcredist from New Balance installer, if you're missing it install it from [here](https://github.com/abbodi1406/vcredist)
@@ -28,7 +28,7 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - [item & enemy locator](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/union%20plugins/Union_Vob_Locator_17_07_2022.vdf)
     - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
     - hush annoying sounds (like field raiders, harpies, etc.) - [mod](https://www.nexusmods.com/gothic2/mods/39)
-    - normalize sun light color - [ini files](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/System/GD3D11/ZENResources)
+    - normalize sun light colors - [ini files](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/System/GD3D11/ZENResources)
 
 ### Good to know
 - How to increase FPS? Decrease these values with hotkeys (+/- by default) or in SystemPack.ini:  
