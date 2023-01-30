@@ -27,6 +27,7 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_XP_Bar_01.09.2022.vdf)
     - [item & enemy locator](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/Union_Vob_Locator_17_07_2022.vdf)
     - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
+    - hush annoying sounds (like field raiders, harpies, etc.) - [mod](https://www.nexusmods.com/gothic2/mods/39)
 
 ### Good to know
 - How to increase FPS? Decrease these values with hotkeys (+/- by default) or in SystemPack.ini:  
