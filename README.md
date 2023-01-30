@@ -28,7 +28,7 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - [item & enemy locator](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/union%20plugins/Union_Vob_Locator_17_07_2022.vdf)
     - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
     - hush annoying sounds (like field raiders, harpies, etc.) - [mod](https://www.nexusmods.com/gothic2/mods/39)
-    - normalize sun light color - (ini files)[https://github.com/the-overdriven/g2-nb-install-guide/tree/main/System/GD3D11/ZENResources]
+    - normalize sun light color - [ini files](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/System/GD3D11/ZENResources)
 
 ### Good to know
 - How to increase FPS? Decrease these values with hotkeys (+/- by default) or in SystemPack.ini:  
