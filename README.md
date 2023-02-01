@@ -3,7 +3,7 @@
 Requirement: clean version of Gothic II Night of the Raven (not in Program Files)
 
 1. Download installer
-https://drive.google.com/drive/folders/1Y6fy1zSo6UejLElJRUNv8g4LQSPtxzgQ
+https://drive.google.com/drive/folders/1Y6fy1zSo6UejLElJRUNv8g4LQSPtxzgQ | [mirror 20.10.2022](https://mega.nz/folder/hi5BxaTT#_dtMcUk8xv1mS_jgQ1lGQw)
 
 2. Download scripts  
 PL: https://drive.google.com/drive/folders/1FHXbFyROyJ6d3CihUHFOH97w7lP6xXNi | [mirror 04.01.2023](https://drive.google.com/file/d/13KuubHWNTUFi32Yee3tNVeIfVazR7X3g/view?usp=sharing)  
