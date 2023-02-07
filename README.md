@@ -29,6 +29,9 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
     - hush annoying sounds (like field raiders, harpies, etc.) - [mod](https://www.nexusmods.com/gothic2/mods/39)
     - normalize sun light colors - [ini files](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/System/GD3D11/ZENResources)
+    
+6. Own fixes (copy to System/Autostart/*)
+    - [Fix Diego's Gold quest (if Gerbrandt is dead)](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/fix_Diegos_Gold_quest_if_Gerbrandt_is_dead.d) - in original G2 you are not able to finish Diego's Gold quest if Gerbrandt is dead, because it's tightly coupled with another Diego's quest: Diego's Revenge. This fix decouples these two quests, so that if Gerbrandt is dead he won't be even mentioned, Diego's Gold quest will be finished upon delivery and Diego will move in to upper quarter.
 
 ### Good to know
 - How to increase FPS? Decrease these values with hotkeys (+/- by default) or in SystemPack.ini:  
