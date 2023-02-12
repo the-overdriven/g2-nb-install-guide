@@ -6,7 +6,7 @@ Requirement: clean version of Gothic II Night of the Raven (not in Program Files
 https://drive.google.com/drive/folders/1Y6fy1zSo6UejLElJRUNv8g4LQSPtxzgQ | [mirror 20.10.2022](https://mega.nz/folder/hi5BxaTT#_dtMcUk8xv1mS_jgQ1lGQw)
 
 2. Download scripts  
-EN: https://www.nexusmods.com/gothic2/mods/34 | [mirror 04.01.2023](https://drive.google.com/file/d/1UsPjXknwjleCSOKNFpQWgdiSUf47zuS2/view?usp=sharing)  
+EN: [nexusmods.com/gothic2/mods/34](https://www.nexusmods.com/gothic2/mods/34) or [nexusmods.com/gothic2/mods/37](https://www.nexusmods.com/gothic2/mods/37) | [mirror 04.01.2023](https://drive.google.com/file/d/1UsPjXknwjleCSOKNFpQWgdiSUf47zuS2/view?usp=sharing)  
 PL: https://drive.google.com/drive/folders/1FHXbFyROyJ6d3CihUHFOH97w7lP6xXNi | [mirror 04.01.2023](https://drive.google.com/file/d/13KuubHWNTUFi32Yee3tNVeIfVazR7X3g/view?usp=sharing)  
 DE: https://drive.google.com/drive/folders/1S9WZKtPGzQI0UtLd8hyGZbRZVpTQwWTS | [mirror 04.01.2023](https://drive.google.com/file/d/1SP6KSx-OLcJi4ux9Vrpha5o5b57zw3je/view?usp=sharing)
 
