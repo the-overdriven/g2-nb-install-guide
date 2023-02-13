@@ -25,6 +25,7 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - remove blue magic glow from weapons https://www.nexusmods.com/gothic2/mods/35
     - [Item Map](https://www.worldofgothic.de/dl/download_634.htm) ([mirror](https://drive.google.com/file/d/17fh5kK6-X86wCPNt-VxPpiEFbuW0kXOp/view?usp=sharing)), requires [Ninja](https://www.worldofgothic.de/dl/download_652.htm) ([mirror](https://drive.google.com/file/d/1KL1DHwmj4q-VLknBND5tcfcP49Kx3XtP/view?usp=sharing))
     - EQ with icons and mouse support [Union_Adv_Inventory](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) | [mirror 12.02.2023](https://drive.google.com/drive/folders/1OFIr53noHDLAglRz61H-fUY3a0OSHVkJ?usp=share_link)
+    - in case Adv_Inventory needs newer Union: [v.2022-06-27](https://drive.google.com/file/d/1fYhk2zbUTHA9r9Rj7Z76J5HMaG-Tz0t7/view?usp=sharing)
     - [Union XP Bar](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/union%20plugins/Union_XP_Bar_01.09.2022.vdf)
     - [item & enemy locator](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/union%20plugins/Union_Vob_Locator_17_07_2022.vdf)
     - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
