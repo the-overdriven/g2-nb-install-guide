@@ -28,8 +28,8 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - in case Adv_Inventory needs newer Union: [v.2022-06-27](https://drive.google.com/file/d/1fYhk2zbUTHA9r9Rj7Z76J5HMaG-Tz0t7/view?usp=sharing)
     - [Union XP Bar](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) | [mirror](https://drive.google.com/drive/folders/1OFIr53noHDLAglRz61H-fUY3a0OSHVkJ?usp=share_link)
     - [item & enemy locator](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) | [mirror](https://drive.google.com/drive/folders/1OFIr53noHDLAglRz61H-fUY3a0OSHVkJ?usp=share_link)
-    - add additional plugins (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data) (menu & inventory style)
-    - hush annoying sounds (like field raiders, harpies, etc.) - [mod](https://www.nexusmods.com/gothic2/mods/39)
+    - menu, save screen, inventory style (copy from [/plugins](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/plugins) to /Data)
+    - hush annoying sounds (like field raiders, harpies, etc.) - [mod](https://www.nexusmods.com/gothic2/mods/39) | [mirror](https://drive.google.com/file/d/12-SIFxElQPMS69mOBRFVJIcLPbmzuA-3/view?usp=share_link)
     - normalize sun light colors - [ini files](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/System/GD3D11/ZENResources)
     
 6. Own fixes (copy to System/Autorun/*)
