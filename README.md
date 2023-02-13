@@ -22,7 +22,7 @@ Don't install vcredist from New Balance installer, if you're missing it install 
     - [better textures: GTR v.3.4.7](https://drive.google.com/file/d/1qdMH5jOGx-O1s8ogQ3WT4qzyt05Fo8g3/view?usp=sharing) (version without custom menu and loading screens, includes HP/MP bars)
     - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf) (only if you want literally 0 grass, otherwise can control it with NB options)  
     - restore original Monastery music and pyramid theme, place [this tiny Union plugin](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/MusicInst.d) in System/Autostart
-    - remove blue magic glow from weapons https://www.nexusmods.com/gothic2/mods/35
+    - remove blue magic glow from weapons https://www.nexusmods.com/gothic2/mods/35 | [mirror](https://drive.google.com/file/d/1RVkkJU8EyEzxfE-2Rve60iERMxkTrqLO/view?usp=share_link)
     - [Item Map](https://www.worldofgothic.de/dl/download_634.htm) ([mirror](https://drive.google.com/file/d/17fh5kK6-X86wCPNt-VxPpiEFbuW0kXOp/view?usp=sharing)), requires [Ninja](https://www.worldofgothic.de/dl/download_652.htm) ([mirror](https://drive.google.com/file/d/1KL1DHwmj4q-VLknBND5tcfcP49Kx3XtP/view?usp=sharing))
     - EQ with icons and mouse support [Union_Adv_Inventory](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) | [mirror 12.02.2023](https://drive.google.com/drive/folders/1OFIr53noHDLAglRz61H-fUY3a0OSHVkJ?usp=share_link)
     - in case Adv_Inventory needs newer Union: [v.2022-06-27](https://drive.google.com/file/d/1fYhk2zbUTHA9r9Rj7Z76J5HMaG-Tz0t7/view?usp=sharing)
