@@ -5,7 +5,7 @@ Requirement: clean version of Gothic II Night of the Raven (not in Program Files
 1. Download installer
 https://drive.google.com/drive/folders/1Y6fy1zSo6UejLElJRUNv8g4LQSPtxzgQ | [mirror 20.10.2022](https://mega.nz/folder/hi5BxaTT#_dtMcUk8xv1mS_jgQ1lGQw)
 
-2. Download scripts  
+2. Download scripts (includes translated texts)  
 EN: [nexusmods.com/gothic2/mods/34](https://www.nexusmods.com/gothic2/mods/34) or [nexusmods.com/gothic2/mods/37](https://www.nexusmods.com/gothic2/mods/37) | [mirror 04.01.2023](https://drive.google.com/file/d/1UsPjXknwjleCSOKNFpQWgdiSUf47zuS2/view?usp=sharing)  
 PL: https://drive.google.com/drive/folders/1FHXbFyROyJ6d3CihUHFOH97w7lP6xXNi | [mirror 04.01.2023](https://drive.google.com/file/d/13KuubHWNTUFi32Yee3tNVeIfVazR7X3g/view?usp=sharing)  
 DE: https://drive.google.com/drive/folders/1S9WZKtPGzQI0UtLd8hyGZbRZVpTQwWTS | [mirror 04.01.2023](https://drive.google.com/file/d/1SP6KSx-OLcJi4ux9Vrpha5o5b57zw3je/view?usp=sharing)
@@ -18,7 +18,7 @@ Don't install vcredist from New Balance installer, if you're missing it install 
 5. Optional, but recommended
     - copy [System/SystemPack.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/SystemPack.ini), [System/Gothic_Keys.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/Gothic_Keys.ini), [System/Gothic.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/Gothic.ini) and [System/GD3D11/UserSettings.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/GD3D11/UserSettings.ini)
     - alt+tab & mouse sensitivity fix: https://github.com/SaiyansKing/GRawInput/releases | [mirror](https://github.com/the-overdriven/GRawInput/releases)
-    - [german TTS](https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY) (replaces russian dubbing) | [mirror](https://drive.google.com/file/d/1ifkLrrAuN4lOLqWgAcT7cyhUUb0jDFk-/view?usp=share_link)
+    - [german TTS dubbing](https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY) (replaces original russian NB dubbing) | [mirror](https://drive.google.com/file/d/1ifkLrrAuN4lOLqWgAcT7cyhUUb0jDFk-/view?usp=share_link)
     - [better textures: GTR v.3.4.7](https://drive.google.com/file/d/1qdMH5jOGx-O1s8ogQ3WT4qzyt05Fo8g3/view?usp=sharing) (version without custom menu and loading screens, includes HP/MP bars)
     - [noGRASS patch](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/noGRASS_all.vdf) (only if you want literally 0 grass, otherwise can control it with NB options)  
     - restore original Monastery music and pyramid theme, place [this tiny Union plugin](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/MusicInst.d) in System/Autostart
