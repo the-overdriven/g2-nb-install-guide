@@ -40,3 +40,12 @@ Don't install vcredist from New Balance installer, if you're missing it install 
 SPAWN_INSERTRANGE = 1500  
 SPAWN_REMOVERANGE = 2000      
 (on lower values creatures further away from you won't spawn which relieves the CPU load, it makes a difference especially in cities)
+
+## nice to have settings
+### hotkeys
+jump on left alt/ctrl
+### Gothic.ini 
+playLogoVideos=0
+### F11
+HDR
+
