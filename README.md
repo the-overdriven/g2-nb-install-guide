@@ -43,9 +43,12 @@ SPAWN_REMOVERANGE = 2000
 
 ## nice to have settings
 ### hotkeys
-jump on left alt/ctrl
+ - jump on left alt/ctrl
+ - ...
 ### Gothic.ini 
-playLogoVideos=0
+ - playLogoVideos=0
+ - ...
 ### F11
-HDR
+ - HDR
+ - fullscreen borderless (to fix alt-tab)
 
