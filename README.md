@@ -51,4 +51,5 @@ SPAWN_REMOVERANGE = 2000
 ### F11
  - HDR
  - fullscreen borderless (to fix alt-tab)
-
+### mods
+ - [silence menu intro music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) (drop to /Data)
