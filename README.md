@@ -47,6 +47,7 @@ SPAWN_REMOVERANGE = 2000
  - ...
 ### Gothic.ini 
  - playLogoVideos=0
+ - animatedWindows=0
  - ...
 ### F11
  - HDR
