@@ -55,5 +55,5 @@ SPAWN_REMOVERANGE = 2000
  - HDR
  - fullscreen borderless (to fix alt-tab)
 ### mods
- - [Alt Renderer for vanilla G2](https://github.com/SaiyansKing/Gothic-LegacyAltRenderer) (fixes alt+tab)
+ - [Legacy Alt Renderer for vanilla G2](https://github.com/SaiyansKing/Gothic-LegacyAltRenderer) (fixes alt+tab)
  - [silence menu intro music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) (drop to /Data)
