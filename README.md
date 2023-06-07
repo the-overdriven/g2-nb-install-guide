@@ -49,6 +49,8 @@ SPAWN_REMOVERANGE = 2000
  - playLogoVideos=0
  - animatedWindows=0
  - ...
+### SystemPack.ini
+ - No_Take_Anim = 1
 ### F11
  - HDR
  - fullscreen borderless (to fix alt-tab)
