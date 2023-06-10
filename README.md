@@ -60,5 +60,5 @@ SPAWN_REMOVERANGE = 2000
 ## Union one-liners
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
-      Mdl_ApplyOverlayMDS(hero,"Humans_Sprint");
-	  Mdl_ApplyOverlayMDS(hero_2,"Humans_Sprint");```
+   Mdl_ApplyOverlayMDS(hero,"Humans_Sprint");
+   Mdl_ApplyOverlayMDS(hero_2,"Humans_Sprint");
