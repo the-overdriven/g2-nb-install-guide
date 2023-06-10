@@ -57,3 +57,8 @@ SPAWN_REMOVERANGE = 2000
 ### mods
  - [Legacy Alt Renderer for vanilla G2](https://github.com/SaiyansKing/Gothic-LegacyAltRenderer) (fixes alt+tab)
  - [silence menu intro music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) (drop to /Data)
+## Union one-liners
+ - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
+   ```
+      Mdl_ApplyOverlayMDS(hero,"Humans_Sprint");
+	  Mdl_ApplyOverlayMDS(hero_2,"Humans_Sprint");```
