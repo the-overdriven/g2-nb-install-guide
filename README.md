@@ -51,6 +51,7 @@ SPAWN_REMOVERANGE = 2000
  - ...
 ### SystemPack.ini
  - No_Take_Anim = 1
+ - Language = OTHER | ENG | POL (choose one in case SystemPack incorrectly resolves your game language, it's needed to correctly localize Union plugins' menu options)
 ### F11
  - HDR
  - fullscreen borderless (to fix alt-tab)
