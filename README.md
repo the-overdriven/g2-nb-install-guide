@@ -62,7 +62,7 @@ SPAWN_REMOVERANGE = 2000
  - [Union Faster Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2950686269) (not compatible with Splitscreen plugin)
  - [Widescreen Menu Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2947535035)
  - [Union 1h + Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=2955908147) (works when pressing 1, not space)
- - [Speed Freak](https://steamcommunity.com/sharedfiles/filedetails/?id=2949391513) (broken! use alternative)
+ - [~~Speed Freak~~](https://steamcommunity.com/sharedfiles/filedetails/?id=2949391513) (broken! use newer version: [here](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Union_ChangeWorldTime.vdf))
  - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433)
  - ...
 ### Union one-liners (System/Autorun/*.d)
