@@ -53,7 +53,7 @@ SPAWN_REMOVERANGE = 2000
  - No_Take_Anim = 1
  - Language = OTHER | ENG | POL (choose one in case SystemPack incorrectly resolves your game language, it's needed to correctly localize Union plugins' menu options)
  - ShowManaBar=2
-### F11
+### GD3D11 options (F11)
  - HDR
  - fullscreen borderless (to fix alt-tab)
 ### mods
