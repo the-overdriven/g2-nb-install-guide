@@ -64,7 +64,17 @@ SPAWN_REMOVERANGE = 2000
  - [Union 1h + Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=2955908147) (works when pressing 1, not space)
  - [~~Speed Freak~~](https://steamcommunity.com/sharedfiles/filedetails/?id=2949391513) (broken! use newer version: [here](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Union_ChangeWorldTime.vdf))
  - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433)
- - ...
+ - [better torches](https://steamcommunity.com/sharedfiles/filedetails/?id=2787281255)
+ - [no underwater effects](https://steamcommunity.com/sharedfiles/filedetails/?id=2787727921)
+ - [Fixed Gothic 2 Armors](https://steamcommunity.com/sharedfiles/filedetails/?id=2787727921)
+ - [trader mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2802843642)
+ - [show fps](https://steamcommunity.com/sharedfiles/filedetails/?id=2843181276)
+ - [zTorchControl](https://steamcommunity.com/sharedfiles/filedetails/?id=2849396078)
+ - [zPicklockAnis](https://steamcommunity.com/sharedfiles/filedetails/?id=2849396144)
+ - [gothic 1 classic armors for gothic 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2852080139)
+ - [dragon patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2933361014)
+ - [Show Weapon Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2934576684)
+ - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
