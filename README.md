@@ -52,12 +52,19 @@ SPAWN_REMOVERANGE = 2000
 ### SystemPack.ini
  - No_Take_Anim = 1
  - Language = OTHER | ENG | POL (choose one in case SystemPack incorrectly resolves your game language, it's needed to correctly localize Union plugins' menu options)
+ - ShowManaBar=2
 ### F11
  - HDR
  - fullscreen borderless (to fix alt-tab)
 ### mods
  - [Legacy Alt Renderer for vanilla G2](https://github.com/SaiyansKing/Gothic-LegacyAltRenderer) (fixes alt+tab)
  - [silence menu intro music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) (drop to /Data)
+ - [Union Faster Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2950686269)
+ - [Widescreen Menu Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2947535035)
+ - [Union 1h + Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=2955908147)
+ - [Speed Freak](https://steamcommunity.com/sharedfiles/filedetails/?id=2949391513)
+ - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433)
+ - ...
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
