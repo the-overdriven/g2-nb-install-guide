@@ -59,10 +59,10 @@ SPAWN_REMOVERANGE = 2000
 ### mods
  - [Legacy Alt Renderer for vanilla G2](https://github.com/SaiyansKing/Gothic-LegacyAltRenderer) (fixes alt+tab)
  - [silence menu intro music](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) (drop to /Data)
- - [Union Faster Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2950686269)
+ - [Union Faster Cooking](https://steamcommunity.com/sharedfiles/filedetails/?id=2950686269) (not compatible with Splitscreen plugin)
  - [Widescreen Menu Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2947535035)
- - [Union 1h + Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=2955908147)
- - [Speed Freak](https://steamcommunity.com/sharedfiles/filedetails/?id=2949391513)
+ - [Union 1h + Torch](https://steamcommunity.com/sharedfiles/filedetails/?id=2955908147) (works when pressing 1, not space)
+ - [Speed Freak](https://steamcommunity.com/sharedfiles/filedetails/?id=2949391513) (broken! use alternative)
  - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433)
  - ...
 ### Union one-liners (System/Autorun/*.d)
