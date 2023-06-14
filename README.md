@@ -76,6 +76,7 @@ SPAWN_REMOVERANGE = 2000
  - [dragon patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2933361014)
  - [Show Weapon Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2934576684)
  - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
+ - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training) (not compatible with Splitscreen)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
