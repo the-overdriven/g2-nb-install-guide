@@ -48,6 +48,7 @@ SPAWN_REMOVERANGE = 2000
 ### Gothic.ini 
  - playLogoVideos=0
  - animatedWindows=0
+ - zMouseRotationScale=6.0
  - ...
 ### SystemPack.ini
  - No_Take_Anim = 1
