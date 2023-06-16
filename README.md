@@ -77,6 +77,7 @@ SPAWN_REMOVERANGE = 2000
  - [Show Weapon Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2934576684)
  - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
  - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training) (not compatible with Splitscreen)
+ - [zBrightLight](https://worldofplayers.ru/threads/42023/)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
