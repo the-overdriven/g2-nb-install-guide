@@ -49,6 +49,12 @@ SPAWN_REMOVERANGE = 2000
  - playLogoVideos=0
  - animatedWindows=0
  - zMouseRotationScale=6.0
+ - ```
+    zTexCacheOutTimeMSec=480000
+    zTexCacheSizeMaxBytes=200000000
+    zSndCacheOutTimeMSec=20000
+    zSndCacheSizeMaxBytes=40000000
+    ```
  - ...
 ### SystemPack.ini
  - No_Take_Anim = 1
