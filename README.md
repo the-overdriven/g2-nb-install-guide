@@ -54,6 +54,7 @@ SPAWN_REMOVERANGE = 2000
  - No_Take_Anim = 1
  - Language = OTHER | ENG | POL (choose one in case SystemPack incorrectly resolves your game language, it's needed to correctly localize Union plugins' menu options)
  - ShowManaBar=2
+ - ShowDebugWindow = true (to debug Union plugins)
 ### GD3D11 options (F11)
  - HDR
  - fullscreen borderless (to fix alt-tab)
@@ -76,7 +77,7 @@ SPAWN_REMOVERANGE = 2000
  - [dragon patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2933361014)
  - [Show Weapon Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2934576684)
  - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
- - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training) (not compatible with Splitscreen)
+ - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training)
  - [zBrightLight](https://worldofplayers.ru/threads/42023/)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
