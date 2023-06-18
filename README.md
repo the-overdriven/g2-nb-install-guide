@@ -85,6 +85,7 @@ SPAWN_REMOVERANGE = 2000
  - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
  - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training)
  - [zBrightLight](https://worldofplayers.ru/threads/42023/) with `[ZBRIGHTLIGHT] Inventory=0`
+ - [Hedin's Union Color Menu] (https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
