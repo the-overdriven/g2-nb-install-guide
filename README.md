@@ -86,6 +86,7 @@ SPAWN_REMOVERANGE = 2000
  - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training)
  - [zBrightLight](https://worldofplayers.ru/threads/42023/) with `[ZBRIGHTLIGHT] Inventory=0`
  - [Hedin's Union Color Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm)
+ - [Invisible Light](https://www.nexusmods.com/gothic2/mods/57)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
