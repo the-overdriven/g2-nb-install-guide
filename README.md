@@ -83,15 +83,15 @@ SPAWN_REMOVERANGE = 2000
  - [dragon patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2933361014)
  - [Show Weapon Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2934576684)
  - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
- - [BonusIndependentTraining.vdf](https://github.com/elsky42/ninja-bonus_independent_training)
+ - [BonusIndependentTraining](https://github.com/elsky42/ninja-bonus_independent_training)
  - [zBrightLight](https://worldofplayers.ru/threads/42023/) with `[ZBRIGHTLIGHT] Inventory=0`
  - [Hedin's Union Color Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm)
  - [Invisible Light](https://www.nexusmods.com/gothic2/mods/57)
- - [Hedin_Union_Ext_Stat](https://www.sefaris.eu/union/plugins) (add stats to char screen, like finished quests, number of killed enemies, drank potions, etc.) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
+ - [Hedin_Union_Ext_Stat](https://www.sefaris.eu/union/plugins) (adds stats to char screen, like finished quests, number of killed enemies, drank potions, etc.) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
  - [zBugFixes](https://www.sefaris.eu/union/plugins) (some low level fixes, explained [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2849396194)) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
  - [zHackChest](https://www.sefaris.eu/union/plugins) (allows to open chests with strength, dexterity, mana) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
  - [zMarkItems](https://www.sefaris.eu/union/plugins) (marks new items in inventory) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
- - [zMiscUtils](https://www.sefaris.eu/union/plugins) (many QoL improvements, listed [here](https://worldofplayers.ru/threads/41521/post-1112249), i.e. show amount in name of the focused item) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
+ - [zMiscUtils](https://www.sefaris.eu/union/plugins) (many QoL improvements, listed [here](https://worldofplayers.ru/threads/41521/post-1112249), i.e. shows amount in name of the focused item, moves last updated quests to top, fast food eating, etc.) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
 ### Union one-liners (System/Autorun/*.d)
  - constant sprint, i.e. in `PLAYER_HOTKEY_SCREEN_MAP`
    ```
