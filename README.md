@@ -56,6 +56,7 @@ SPAWN_REMOVERANGE = 2000
     zSndCacheSizeMaxBytes=40000000
     ```
  - keyboardLayout=00020409 (non-german keyboard)
+ - zSunMaxScreenBlendScale=0 (remove sun rays)
  - ...
 ### SystemPack.ini
  - No_Take_Anim = 1
