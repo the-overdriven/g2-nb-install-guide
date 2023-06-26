@@ -49,7 +49,8 @@ SPAWN_REMOVERANGE = 2000
  - playLogoVideos=0
  - animatedWindows=0
  - zMouseRotationScale=6.0
- - ```
+ - increase memory for textures and sound (although it doesn't seem to change much)
+    ```
     zTexCacheOutTimeMSec=480000
     zTexCacheSizeMaxBytes=200000000
     zSndCacheOutTimeMSec=20000
