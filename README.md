@@ -87,7 +87,7 @@ SPAWN_REMOVERANGE = 2000
  - [Show Weapon Range](https://steamcommunity.com/sharedfiles/filedetails/?id=2934576684)
  - [no render delay](https://steamcommunity.com/sharedfiles/filedetails/?id=2934577531)
  - [BonusIndependentTraining](https://github.com/elsky42/ninja-bonus_independent_training)
- - [zBrightLight](https://worldofplayers.ru/threads/42023/) with `[ZBRIGHTLIGHT] Inventory=0`
+ - [zBrightLight](https://worldofplayers.ru/threads/42023/) with `[ZBRIGHTLIGHT] Inventory=0` ([mirror without 3rd party downloader](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/union%20plugins/zBrightLight_2022-01-04.vdf))
  - [Hedin's Union Color Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm)
  - [Invisible Light](https://www.nexusmods.com/gothic2/mods/57)
  - [Hedin_Union_Ext_Stat](https://www.sefaris.eu/union/plugins) (adds stats to char screen, like finished quests, number of killed enemies, drank potions, etc.) | [mirror](https://github.com/the-overdriven/g2-nb-install-guide/tree/main/union%20plugins)
