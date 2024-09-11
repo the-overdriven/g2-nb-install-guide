@@ -16,6 +16,9 @@ Don't install vcredist from New Balance installer, if you're missing it install 
 4. Copy scripts to main dir
 
 5. Optional, but recommended
+
+    **This guide is outdated. Please refer to new one, [here](https://github.com/the-overdriven/G2-essential-mods) (for any version, not only NB).**
+
     - copy [System/SystemPack.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/SystemPack.ini), [System/Gothic_Keys.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/Gothic_Keys.ini), [System/Gothic.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/Gothic.ini) and [System/GD3D11/UserSettings.ini](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/System/GD3D11/UserSettings.ini)
     - alt+tab & mouse sensitivity fix: https://github.com/SaiyansKing/GRawInput/releases | [mirror](https://github.com/the-overdriven/GRawInput/releases)
     - [german TTS dubbing](https://drive.google.com/drive/folders/13_f1chCrL5SH8H01bPHbIREBNxSHEYHY) (replaces original russian NB dubbing) | [mirror](https://drive.google.com/file/d/1ifkLrrAuN4lOLqWgAcT7cyhUUb0jDFk-/view?usp=share_link)
