@@ -16,8 +16,8 @@ Don't install vcredist from New Balance installer, if you're missing it install 
 4. Copy scripts to main dir
 
 
-
-    **This guide is outdated. Please refer to new one, [here](https://github.com/the-overdriven/G2-essential-mods) (for any version, not only NB).**
+> [!WARNING]  
+> **This guide is outdated. Please refer to new one, [here](https://github.com/the-overdriven/G2-essential-mods) (for any mod, not only NB).**
 
 ---
 5. Optional, but recommended
